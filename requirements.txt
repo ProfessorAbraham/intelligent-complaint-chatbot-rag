@@ -1,0 +1,11 @@
+pandas
+matplotlib
+seaborn
+nltk
+langchain
+sentence-transformers
+faiss-cpu
+chromadb
+openai
+gradio
+streamlit
